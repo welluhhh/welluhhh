@@ -32,6 +32,14 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 ![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2%20CC-003057?style=for-the-badge&logo=isc2&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white)
 
+### 🔍 Security & Analysis Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat&logo=portswigger&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=flat&logo=google-cloud&logoColor=white)
+
 ### Currently Pursuing
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA%20CySA%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white)
 
@@ -54,20 +62,3 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 🛡️ Featured Security & Tech Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Linux-Admin-Labs](https://github.com/YOUR_USERNAME/REPOS_NAME)** | Documentation of my Kali Linux workflows and sysadmin practice. | `Bash` `Kali` `Linux` |
-| **[SecPlus-Study-Vault](https://github.com/YOUR_USERNAME/REPOS_NAME)** | Active study resources and conceptual breakdowns for the SY0-701. | `Markdown` `Obsidian` |
-| **[Splunk-Log-Analysis](https://github.com/YOUR_USERNAME/REPOS_NAME)** | Practice labs focused on SIEM monitoring and log management. | `Splunk` `JSON` |
-
-*Note: I am currently building out these repositories as part of my Skillbridge program.*
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/welluhhh/count.svg" alt="Visitor Counter" />
-</p>
-
