@@ -49,6 +49,9 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
   <img src="https://github-readme-stats.vercel.app/api?username=welluhhh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welluhhh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=welluhhh&theme=tokyonight&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
