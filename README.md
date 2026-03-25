@@ -47,6 +47,8 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=welluhhh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welluhhh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
@@ -54,6 +56,16 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 </p>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=welluhhh&theme=tokyonight&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=welluhhh&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+### 🛡️ Featured Security & Tech Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Linux-Admin-Labs](https://github.com/YOUR_USERNAME/REPOS_NAME)** | Documentation of my Kali Linux workflows and sysadmin practice. | `Bash` `Kali` `Linux` |
+| **[SecPlus-Study-Vault](https://github.com/YOUR_USERNAME/REPOS_NAME)** | Active study resources and conceptual breakdowns for the SY0-701. | `Markdown` `Obsidian` |
+| **[Splunk-Log-Analysis](https://github.com/YOUR_USERNAME/REPOS_NAME)** | Practice labs focused on SIEM monitoring and log management. | `Splunk` `JSON` |
+
+*Note: I am currently building out these repositories as part of my Skillbridge program.*
