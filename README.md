@@ -69,3 +69,8 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 | **[Splunk-Log-Analysis](https://github.com/YOUR_USERNAME/REPOS_NAME)** | Practice labs focused on SIEM monitoring and log management. | `Splunk` `JSON` |
 
 *Note: I am currently building out these repositories as part of my Skillbridge program.*
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Counter" />
+</p>
+
