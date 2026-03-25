@@ -32,7 +32,7 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 ![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2%20CC-003057?style=for-the-badge&logo=isc2&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white)
 
-**Currently Pursuing:**
+### Currently Pursuing
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA%20CySA%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white)
 
 ### 🤝 Connect with Me
