@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mohammed 👋
 
-<!--
-**welluhhh/welluhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional;Communications+Instructor;Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I am currently participating in a Skillbridge program focused on cybersecurity and actively transitioning into the tech industry. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Quick Facts
+- 🔭 I’m currently honing my skills in **Kali Linux** and **Splunk**.
+- 🌱 I’m actively studying for my **CompTIA CySA+**.
+- 💬 Ask me about **Cybersecurity, HAM Radios &  Telecommunication**.
+- 📝 I document my technical notes and workflows using **Obsidian**.
+- 📫 How to reach me: https://www.linkedin.com/in/mo-ham-med-ali/
