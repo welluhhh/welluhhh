@@ -55,9 +55,6 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=welluhhh&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🛡️ Featured Security & Tech Projects
@@ -71,6 +68,6 @@ Welcome to my GitHub! I am currently participating in a Skillbridge program focu
 *Note: I am currently building out these repositories as part of my Skillbridge program.*
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/welluhhh/count.svg" alt="Visitor Counter" />
 </p>
 
